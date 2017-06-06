@@ -3,11 +3,12 @@ class GitJava
    public static void main(String args[])
   {
 
-    System.out.println("HEllo Rahul...I'm creating new BRanch here");
-  }
-//this is for multi branches
-//This is Branch
-//this is hot fix
+   for(int i=0;i<10;i++)
+   {
 
-//one more branch ..
+
+     System.out.println("Hello World");
+     }
+  }
+
 }

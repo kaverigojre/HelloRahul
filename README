@@ -1,9 +1,11 @@
-I added this for you from terminal :) 
+Hello World
+===============
 
-Thanks!!
+To compile
+
+$ javac GitJava.java
 
 
-And yes this is v1.0 just added tag :) 
+To Run
 
-
-THIS IS HOTFIX
+$ java GitJava
