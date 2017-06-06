@@ -7,4 +7,5 @@ class GitJava
   }
 
 //This is Branch
+//this is hot fix
 }
